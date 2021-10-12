@@ -1,0 +1,18 @@
+/**
+ * @name TheMationBlue
+ * @author EagleVision919
+ * @version 1.1.0
+ * @description A smooth blue type discord experience with swirling animations
+*/
+@import url('https://DiscordStyles.github.io/DarkMatter/src/base.css');
+/* Variables */
+:root {
+    --avatar-size: 32px;
+    --background-image: url('https://i.gifer.com/OpOK.gif');
+    --home-image: url('https://i.gifer.com/OpOK.gif');
+    --background-solid: #161921;
+    --background-solid-dark: #101218;
+    --background-solid-darker: #0c0e12;
+    --accent: 27, 144, 207;
+    --accent-alt: 17, 86, 122;
+}
